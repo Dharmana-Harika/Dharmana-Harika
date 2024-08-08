@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @Dharmana-Harika
-- 👀 I’m interested in Software Roles
+- 👀 I’m interested in
 - 🌱 I’m currently learning Java FullStack
-- 💞️ I’m looking to collaborate on IT comapnies
-- 📫 How to reach me DM
+- 💞️ I’m looking to collaborate on 
+- 📫 How to reach me 
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 
